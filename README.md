@@ -1,0 +1,1 @@
+# score-qa-automation-challenge
